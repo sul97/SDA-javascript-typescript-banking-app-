@@ -64,7 +64,7 @@ Constructor:
 
 Methods:
 - getName(): string
-- getId(): string
+- getId(): number
 - getTransactions(): Transaction[]
 - getBalance(): number
   Note: The balance cannot be negative.
