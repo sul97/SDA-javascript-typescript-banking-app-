@@ -56,7 +56,7 @@ Methods:
 
 Properties:
 - name (string)
-- id (string)
+- id (number)
 - transactions (array of Transaction[])
 
 Constructor:
@@ -69,7 +69,7 @@ Methods:
 - getBalance(): number
   Note: The balance cannot be negative.
 
-- addTransaction(amount: number): boolean
+- addTransactions(amount: number): boolean
   Description: Adds a successful transaction of the amount to the transactions array.
 
 #### Transaction Class:
