@@ -7,6 +7,13 @@
   },
   "devDependencies": {
     "@types/node": "^18.15.11",
-    "typescript": "^5.0.3"
-  }
+    "typescript": "^5.2.2"
+  },
+  "name": "sda-online-javascript-typescript-banking-app",
+  "description": "This project aims to build JavaScript classes for a banking application to practice Object-Oriented Programming (OOP) concepts.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

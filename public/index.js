@@ -1,4 +1,3 @@
-"use strict";
 // ======= Class Transaction =======  first part of assignment
 class Transaction {
     constructor(amount,date) {
